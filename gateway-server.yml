@@ -61,4 +61,4 @@ eureka:
       defaultZone: http://eureka-server:8761/eureka/
 
 frontend:
-  url: "http://localhost:8071"
+  url: "http://localhost:8081"
